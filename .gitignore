@@ -1,0 +1,14 @@
+# ignore following:
+
+PIserverLOG.txt
+*.o
+sensorTest/**/*
+readTemp.cxx
+TempLCD
+testClient
+clientTest
+hardcopy.3
+main.cpp.save
+PIserverTH
+TempServer
+
